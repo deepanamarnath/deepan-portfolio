@@ -21,6 +21,7 @@ export function Navbar() {
         { name: "Expertise", href: "#expertise" },
         { name: "Projects", href: "#projects" },
         { name: "Skills", href: "#skills" },
+        { name: "QA Studio", href: "/qa-tools" },
         { name: "Contact", href: "#contact" },
     ]
 
